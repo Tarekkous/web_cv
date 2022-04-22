@@ -1,10 +1,10 @@
 ---
-title: Intern
-organization: Microsoft
-organizationUrl: https://www.microsoft.com
-location: Redmond, CA
-start: 2019-02-18
-end: 2019-11-21
+title: InternSummer intern
+organization: FCR Village association
+location: La Marsa, Tunisia
+start: 2019-06-01
+end: 2019-08-21
 ---
 
-Ipsum a arcu cursus vitae congue. Arcu ac tortor dignissim convallis. Integer malesuada nunc vel risus commodo. Vitae turpis massa sed elementum. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum.
+- greet people and tell them about the event and explain its concept
+- distribute the brochures
