@@ -1,43 +1,42 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Tarek koussaier",
+    "occupation": "Full Stack Developper",
+    "location": "Gaillard,France",
+    "avatar": "tarek.jpg",
+    "pronouns": "he/him",
+    "email": "tarek.koussaier@yahoo.fr",
+    "telephone": "06 41 25 23 11",
     "skills": [
         "HTML",
         "CSS",
         "Javascript / ES6",
-        "UI Design",
-        "React",
+        "Github",
+        "Linux",
         "Git"
     ],
     "languages": [
         {
-            "name": "English",
-            "level": "native"
-        },
-        {
-            "name": "German",
+            "name": "French",
             "level": "fluent"
         },
         {
-            "name": "French",
+            "name": "Arab",
+            "level": "fluent"
+        },
+        {
+            "name": "english",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
+            "user": "@Tarekkous",
             "url": "https://github.com/annaquincey"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
+            "user": "tarek koussaier",
             "url": "https://www.linkedin.com/in/annaquincey"
         }
     ]
